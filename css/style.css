@@ -1,0 +1,43 @@
+.newsection {
+    background-color: darkslateblue !important;
+}
+.beforepics {
+    background-color: #212529 !important;
+}
+.afterpics {
+    background-color: white !important;
+    
+}
+.darktext {
+    color:#212529;
+}
+.whitebtn {
+    border: #212529 5px solid;
+}
+.services {
+    color: white;
+}
+.icons {
+    color: darkslateblue !important;
+}
+hr.break {
+    background-color:darkslateblue !important;
+}
+hr.break2 {
+    background-color: white !important;
+}
+.firstbtn {
+    background-color: rgb(116, 104, 197) !important;
+}
+.images {
+    background: darkslateblue !important;
+    transition: opacity 0.5 ease ;
+}
+.submitbtn {
+    background-color: white;
+    color: #212529;
+}
+.submitbtn:hover {
+    background-color: white;
+    color:darkslateblue;
+}
