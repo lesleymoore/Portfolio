@@ -14,7 +14,7 @@
     border: #212529 5px solid;
 }
 .services {
-    color: white;
+    color: white !important;
 }
 .icons {
     color: darkslateblue !important;
