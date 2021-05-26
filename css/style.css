@@ -11,6 +11,9 @@
     color:white;
 }
 .whitebtn {
+    border: darkslateblue 5px solid;
+}
+.lightbtn {
     border: #212529 5px solid;
 }
 .services {
@@ -27,16 +30,9 @@ hr.break2 {
 }
 .firstbtn {
     background-color: rgb(116, 104, 197) !important;
+    border: white 5px solid;
 }
 .images {
     background: darkslateblue !important;
     transition: opacity 0.5 ease ;
-}
-.submitbtn {
-    background-color: white;
-    color: #212529;
-}
-.submitbtn:hover {
-    background-color: white;
-    color:darkslateblue;
 }
