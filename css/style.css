@@ -36,3 +36,9 @@ hr.break2 {
     background: darkslateblue !important;
     transition: opacity 0.5 ease ;
 }
+.website {
+    float: right;
+}
+.box {
+    background-color:#212529 !important;
+}
